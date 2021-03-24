@@ -271,7 +271,7 @@ section {
 }
 
 .steps-text p {
-    color: var(--tertiary-color)
+    color: var(--tertiary-color);
     font-size: 18px;
 }
 
@@ -402,8 +402,8 @@ section {
     color: white;
 }
 
-.contact-info{
-    display: flex;
+.contact-info {
+    display: flex; 
     justify-content: space-between;
     flex-wrap: wrap;
 }
